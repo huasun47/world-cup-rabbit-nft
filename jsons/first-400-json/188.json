@@ -1,0 +1,31 @@
+
+{
+  "name": "Rabbit #188",
+  "image": "ipfs://bafybeibcjaperxogvs4jhi7huxjdkwtjw4hmq7uc5mhk75kokrhbtk3shy/188.png",
+  "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink blue"
+      },
+      {
+        "trait_type": "Scarf",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Jersey",
+        "value": "Germany"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Beige and little pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Brown eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Crevice"
+      }
+    ]
+  }

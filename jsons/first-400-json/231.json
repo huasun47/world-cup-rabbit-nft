@@ -1,0 +1,31 @@
+
+{
+  "name": "Rabbit #231",
+  "image": "ipfs://bafybeibcjaperxogvs4jhi7huxjdkwtjw4hmq7uc5mhk75kokrhbtk3shy/231.png",
+  "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Scarf",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Jersey",
+        "value": "Iran"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Yellow, White and little pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Deep Blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Crevice"
+      }
+    ]
+  }

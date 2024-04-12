@@ -1,0 +1,31 @@
+
+{
+  "name": "Rabbit #244",
+  "image": "ipfs://bafybeibcjaperxogvs4jhi7huxjdkwtjw4hmq7uc5mhk75kokrhbtk3shy/244.png",
+  "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Scarf",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Jersey",
+        "value": "Argentina"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Gray, White and little pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Brown eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Crevice"
+      }
+    ]
+  }

@@ -1,0 +1,31 @@
+
+{
+  "name": "Rabbit #396",
+  "image": "ipfs://bafybeibcjaperxogvs4jhi7huxjdkwtjw4hmq7uc5mhk75kokrhbtk3shy/396.png",
+  "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sky Blue"
+      },
+      {
+        "trait_type": "Scarf",
+        "value": "Hello"
+      },
+      {
+        "trait_type": "Jersey",
+        "value": "France"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Beige and little pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Brown eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Crevice"
+      }
+    ]
+  }

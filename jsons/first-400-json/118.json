@@ -1,0 +1,31 @@
+
+{
+  "name": "Rabbit #118",
+  "image": "ipfs://bafybeibcjaperxogvs4jhi7huxjdkwtjw4hmq7uc5mhk75kokrhbtk3shy/118.png",
+  "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink blue"
+      },
+      {
+        "trait_type": "Scarf",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Jersey",
+        "value": "Uruguay"
+      },
+      {
+        "trait_type": "Face",
+        "value": "White and little pink"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Deep Blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Crevice"
+      }
+    ]
+  }
