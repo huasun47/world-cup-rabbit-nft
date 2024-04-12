@@ -1,2 +1,10 @@
 # world-cup-rabbit-nft
-A simple full process of mint nft
+A simple full process of mint nft, its not very well
+
+- jsons: nft jsons
+- IPFS: (nft.storage)[https://nft.storage/]
+- images: need upload into IPFS
+- contract: nft contract by Hardhet
+- site: nft website by React
+
+[Preview Demo](https://coloredrabbitnft.netlify.app/)  deploy by Netlify
